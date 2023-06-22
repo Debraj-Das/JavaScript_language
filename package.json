@@ -1,0 +1,19 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "This is for Practise propose reprojectory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Debraj-Das/JavaScript_language.git"
+  },
+  "author": "Debraj Das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Debraj-Das/JavaScript_language/issues"
+  },
+  "homepage": "https://github.com/Debraj-Das/JavaScript_language#readme"
+}
