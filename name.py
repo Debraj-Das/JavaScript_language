@@ -1,6 +1,6 @@
 import os
 
-s = "variable"
+s = "Guess the number"
 exe = ".js"
 
 s = s.replace(" ", "_")

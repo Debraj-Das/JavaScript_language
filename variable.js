@@ -59,4 +59,19 @@ console.log(OBJECT_TYPE.address.city);
 console.log(OBJECT_TYPE.name);
 console.log(OBJECT_TYPE["sdf"]); // if key is not present then it will return undefined
 
+/*
+let a = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
+let b = {
+  name: "Rahul",
+  age: 20,
+};
+
+console.log(typeof a);
+console.log(typeof b);
+
+let m = new Map();
+
+console.log(typeof m);
+
+*/

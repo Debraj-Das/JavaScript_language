@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Debraj-Das/JavaScript_language/issues"
   },
-  "homepage": "https://github.com/Debraj-Das/JavaScript_language#readme"
+  "homepage": "https://github.com/Debraj-Das/JavaScript_language#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
