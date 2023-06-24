@@ -1,6 +1,6 @@
 import os
 
-s = "Guess the number"
+s = "Snake water gun"
 exe = ".js"
 
 s = s.replace(" ", "_")
