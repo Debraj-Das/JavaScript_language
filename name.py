@@ -1,6 +1,6 @@
 import os
 
-s = "Snake water gun"
+s = "Asyc and Await"
 exe = ".js"
 
 s = s.replace(" ", "_")

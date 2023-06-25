@@ -6,7 +6,7 @@ def commit(s):
 
 
 
-message = "Learning JavaScript completed 26 to 46 lectures"
+message = "Learning JavaScript completed 47 to 65 lectures"
 
 
 commit(message)
